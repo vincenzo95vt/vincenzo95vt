@@ -47,7 +47,7 @@ Aplicación web interactiva para explorar personajes y cómics de Marvel. Utiliz
   
 ## Educación
 
-- **Curso Full Stack Web Developer** – CodeSpace Academy (2023-2024)
+- **Bootcamp Full Stack Web Developer** – Codespace Academy (2023-2024)
   - Tecnologías: Node.js, React, Express, MongoDB, MySQL.
   
 - **Cursos de Python** Udemy (2023-2024) 
