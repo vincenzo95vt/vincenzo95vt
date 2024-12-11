@@ -1,7 +1,7 @@
 # Pablo Vincenzo Vasta Triviño - Desarrollador Web Fullstack
 
 ## Sobre mí
-Soy un desarrollador web fullstack junior especializado en tecnologías como Node.js, React, y Express. Tengo experiencia trabajando en aplicaciones tanto frontend como backend, y me apasiona crear soluciones web funcionales y atractivas. He trabajado en proyectos propios y en colaboración con equipos, mejorando continuamente mis habilidades y conocimientos en el desarrollo web.
+Soy un desarrollador web fullstack junior especializado en tecnologías como Node.js, React, y Express. Tengo experiencia trabajando en aplicaciones tanto frontend como backend, me apasiona crear soluciones web funcionales y atractivas. He trabajado en proyectos propios y en colaboración con equipos, mejorando continuamente mis habilidades y conocimientos en el desarrollo web.
 
 ## Habilidades Técnicas
 - **Lenguajes y Tecnologías:**  
@@ -29,7 +29,7 @@ Soy un desarrollador web fullstack junior especializado en tecnologías como Nod
 ## Proyectos Destacados
 
 ### [FavLists](https://github.com/vincenzo95vt/SocialWeb-FavLists)
-Una red social diseñada para que los usuarios guarden listas de fotos favoritas, con funcionalidades para comentarios y manejo de imágenes generadas por IA. Desarrollado con Node.js, Express, React y Redux, integrando bases de datos en MongoDB.
+Una red social diseñada para que los usuarios guarden listas de fotos favoritas, con funcionalidades para comentarios y manejo de imágenes. Desarrollado con Node.js, Express, React y Redux, integrando bases de datos en MongoDB.
 
 ### Herramienta de análisis de propiedades - Zoddak
 Aplicación B2B para generar informes detallados de propiedades, utilizando Google Maps API, React y Redux. Permite a las empresas del sector inmobiliario obtener información precisa sobre propiedades. Tuve la oportunidad de realizar este proyecto como trabajo de prácticas de mi Bootcamp.
