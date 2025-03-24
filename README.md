@@ -52,13 +52,11 @@ Frontend en React + Redux, y backend orientado a servir informes tipo PDF para a
 App interactiva que permite buscar personajes y cómics del universo Marvel. Responsive y desarrollado con React, Redux y la Marvel API.
 
 ### 💬 [Chatbot IA - Generador de respuestas](https://github.com/vincenzo95vt/ia-news-chatbot)  
-Proyecto experimental donde a partir de una noticia real, el usuario puede generar respuestas/resúmenes utilizando un modelo de lenguaje vía API.  
-Pensado para combatir el sesgo informativo y practicar integración de IA con frontend.
+Proyecto experimental donde el usuario puede hablar directamente con un bot. Integrado con Gemini.
 
 ### 🪞 [MediaMirror](https://github.com/vincenzo95vt/MediaMirror)  
 Aplicación que analiza noticias y titulares de distintos medios, permitiendo al usuario comparar cómo se cubre un mismo hecho desde diferentes enfoques.  
 Desarrollado con React y pensado como herramienta crítica frente a la desinformación.
- API.
 
 ---
 
