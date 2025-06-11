@@ -14,6 +14,9 @@ Me encanta aprender cosas nuevas y dar forma a ideas propias mientras construyo 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+
 
 ### Bases de Datos:
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -25,12 +28,14 @@ Me encanta aprender cosas nuevas y dar forma a ideas propias mientras construyo 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Otros:
-- APIs REST
-- JWT y autenticación
-- Git y GitHub
-- Python básico
-- Flask y FastAPI (nivel junior)
-- IA con Replicate y Hugging Face (proyectos personales)
+- Desarrollo de APIs RESTful seguras y bien estructuradas.
+- Autenticación avanzada con JWT y gestión de sesiones.
+- Control de versiones con Git y trabajo colaborativo en GitHub.
+- Experiencia laboral con **Python** (automatización, IA, backends ligeros).
+- Conocimientos sólidos en **PHP** y uso profesional de **CodeIgniter** para backends robustos y mantenibles.
+- Familiaridad con **Flask** y **FastAPI** para microservicios y prototipos rápidos.
+- Proyectos personales integrando modelos de Inteligencia Artificial con **Replicate** y **Hugging Face**.
+
 
 ---
 
@@ -68,6 +73,14 @@ Desarrollado con React y pensado como herramienta crítica frente a la desinform
 - Integración con APIs externas (Google Maps).  
 - Uso de React y Redux para una experiencia fluida.  
 - Trabajo colaborativo con otros desarrolladores.
+
+### 🏢 Zoddak — Desarrollador Web Fullstack  
+**Abr 2025 - Actualidad**  
+- Desarrollo de herramientas internas para el sector inmobiliario utilizando **PHP con CodeIgniter**.  
+- Gestión de notificaciones, sincronización de calendarios y automatización de correos.  
+- Uso de **MongoDB** como base de datos principal y conexión con sistemas de terceros.  
+- Refactorización de lógica legacy para mejorar rendimiento y mantenimiento.  
+- Coordinación directa con el equipo de producto para implementar nuevas funcionalidades.  
 
 ---
 
