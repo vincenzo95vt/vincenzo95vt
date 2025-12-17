@@ -68,14 +68,14 @@ Desarrollado con React y pensado como herramienta crítica frente a la desinform
 ## 👨‍💼 Experiencia
 
 ### 🏢 Zoddak — Desarrollador Web Junior (Prácticas)  
-**Jul 2024 - Sep 2024**  
+**Jul 2024 - Dic 2024**  
 - Desarrollo de herramientas internas para el sector inmobiliario.  
 - Integración con APIs externas (Google Maps).  
 - Uso de React y Redux para una experiencia fluida.  
 - Trabajo colaborativo con otros desarrolladores.
 
 ### 🏢 Zoddak — Desarrollador Web Fullstack  
-**Abr 2025 - Actualidad**  
+**Ene 2025 - Actualidad**  
 - Desarrollo de herramientas internas para el sector inmobiliario utilizando **PHP con CodeIgniter**.  
 - Gestión de notificaciones, sincronización de calendarios y automatización de correos.  
 - Uso de **MongoDB** como base de datos principal y conexión con sistemas de terceros.  
